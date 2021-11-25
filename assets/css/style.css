@@ -1,0 +1,45 @@
+.navbar-custom{
+    background-color: #005E94;
+    margin-left: 280px;
+}
+
+.navbar-custom a {
+    color: white;
+}
+
+.sidebar-custom{
+    height: 100%;
+    width: 280px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #40962C;
+    overflow-x: hidden;
+    padding-left: 10px;
+    padding-top: 60px;
+    /*padding-right: 10px;*/
+
+}
+
+.nav-side li{
+    background-color: white;
+    border-left: solid 3px #FC840A;
+    margin-top: 10px;
+    color: #000000;
+}
+
+.nav-side a{
+    color: #000000;
+}
+
+.nav-side-active{
+
+}
+
+
+.main{
+    margin-left: 280px;
+    margin-top: 56px;
+    padding: 20px;
+}
